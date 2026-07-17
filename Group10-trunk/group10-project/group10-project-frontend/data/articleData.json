@@ -1,0 +1,329 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "/gifs/image.png",
+    "slug": "privacy-policy-awareness",
+    "title": "Privacy Policy Awareness",
+    "subtitle": "Understanding How Your Data is Collected and Used",
+    "blurb": "Learn how organizations handle your personal data, the importance of GDPR, and best practices for safeguarding your privacy.",
+    "author": "Leon Philips King",
+    "content": [
+      {
+        "title": "What are Privacy Policies?",
+        "paragraphs": [
+          {
+            "text": "Privacy Policies are legal documents explaining how an organization collects, processes, stores, and shares user data. Organizations must maintain transparency and ensure compliance with data protection laws such as the General Data Protection Regulation (GDPR). Privacy policies define user rights and inform them about how their data is managed.",
+            "gifId": 1
+          }
+        ]
+      },
+      {
+        "title": "Understanding GDPR",
+        "paragraphs": [
+          {
+            "text": "The General Data Protection Regulation (GDPR) is a European law that establishes rules for the collection and processing of personal data. It mandates that data must be gathered for clear and specific purposes, ensuring that only necessary information is collected. Any stored data must be accurate, up to date, and maintained in a way that respects individuals' privacy rights. Failure to comply with GDPR can result in severe financial penalties.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Common Sections in Privacy Policies",
+        "paragraphs": [
+          {
+            "text": "A privacy policy typically includes key sections outlining data handling practices. The data collection section specifies the types of information collected, such as names, email addresses, payment details, and browsing behavior. The data usage section explains the purpose of data collection, whether for improving services, personalizing user experiences, or marketing. The data sharing and third-party involvement section discloses whether the company shares information with advertisers, analytics providers, or other businesses. Finally, the user rights section describes how individuals can access, modify, or delete their personal data and opt out of data tracking.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "How Privacy Policies Affect You",
+        "paragraphs": [
+          {
+            "text": "Ignoring privacy policies can lead to real-world consequences, including data breaches or scandals. One notable case is the Cambridge Analytica scandal, where Facebook users' data was harvested without consent, influencing elections. Companies that suffer data breaches expose users to risks such as identity theft, fraud, and phishing attacks. Understanding privacy policies helps users mitigate these risks and make informed decisions about their digital footprint.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Best Practices for Protecting Your Data",
+        "paragraphs": [
+          {
+            "text": "Even with clear privacy policies, users should take proactive steps to protect their personal information. Review privacy settings on social media and online accounts to minimize data exposure. When signing up for new services, consider using a secondary or temporary email to reduce tracking. Enable two-factor authentication for added security, particularly for banking and sensitive accounts. Additionally, review and delete old accounts to limit data exposure in case of breaches.",
+            "gifId": null
+          }
+        ]
+      }
+    ],
+    "gifs": [
+      {
+        "id": 1,
+        "CoverImageUrl": "/gifs/image.png"
+      }
+    ],
+    "References": [
+      {
+        "title": "Understanding GDPR Compliance",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "imageUrl": "/gifs/image.png",
+    "slug": "learning-about-data-misuse",
+    "title": "Learning about Data Misuse",
+    "subtitle": "Protecting Your Digital Information",
+    "blurb": "Learn about how your data is being misused against you, and how can you protect yourself.",
+    "author": "Wajahat Iqbal",
+    "content": [
+      {
+        "title": "Introduction",
+        "paragraphs": [
+          {
+            "text": "When you sign up for a new app or website, do you actually read the privacy policy? Probably not, but hidden underneath all that political jargon are deceitful clauses that companies put in to make you share your data to them. Companies gather tremendous amounts of user data, and this data drives most of the profits for many companies by selling your details to advertisers. From the moment you sign up, companies begin building a profile on you. They track everything from personal data such as your name, age and gender to even your behavioural data, what you click, where you move the cursor and how long you spend reading something. For someone unfamiliar with privacy issues, it may seem harmless; your data being sold and used in exchange for using the service of the company for free. However, in this article we’ll break down what companies really do with your information and how it may in fact harm you in the future.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "What data do companies store?",
+        "paragraphs": [
+          {
+            "text": "Now what exactly do companies gather? And it’s more than just your name and email. There are 4 main types of data companies collect: (1): Personal data: like your name, gender, age and ethnicity. (2): Behavioural data: Companies monitor how you navigate around their platforms, for example, how long you stay on their website, what you click on, scroll through and hover over, how often you use it, etc. (3): Engagement data: is about how actively customers interact with the brand and its products. Data on this is collected through social media interactions, app and website logins, and customer service interactions. (4): Attitudinal data: refers to public perception of companies and products; data on this is collected through customer satisfaction surveys and online reviews. (key note: Attitudinal data reveals how users feel, while behavioural data shows what they actually do)",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Why does this matter?",
+        "paragraphs": [
+          {
+            "text": "Ok so the company knows I click on this ad or I my name is John what’s the big deal? But when this data is leaked or misused, it can cause real harm. On the surface, targeted advertising and data collection might seem harmless, even helpful. But what happens when companies start using your data for more than just ads, Companies don’t just track what you do; they use algorithms to predict who you are. This can influence everything from the news you see to the prices you pay for products Even if you trust a company with your information, can you trust them to keep it secure?",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Negative impacts on the user: Data Breaches",
+        "paragraphs": [
+          {
+            "text": "One of the most common issues with data collection is the lack of security surrounding it. When companies fail to securely store your data , hackers are able to infiltrate and steal sensitive data such as password, emails and financial details, this data can then later be sold on places such as the dark web and be used maliciously against you; identity theft, financial scams. Below are examples of such situations:",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Equifax (2017):",
+        "paragraphs": [
+          {
+            "text": "“Equifax, one of the three largest consumer credit reporting agencies in the United States, announced in September 2017 that its systems had been breached and the sensitive personal data of 148 million Americans had been compromised”.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Yahoo (2013):",
+        "paragraphs": [
+          {
+            "text": "“Yahoo has said more than one billion user accounts may have been affected in a hacking attack dating back to 2013.”Yahoo said that ‘1 billion accounts were affected by this breach names, phone numbers, passwords and email addresses were stolen. This was the largest data breach in history at the time. Afterwards, once research was conducted it was found that many users re-used YAHOO passwords across other accounts, thus causing a domino effect of other accounts being breached. Now we must ask ourselves if a billion-dollar company can’t protect our data that who can?",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Digital profiling",
+        "paragraphs": [
+          {
+            "text": "Another issue with data collection that you may not be aware off but defiantly impacts you is that of digital profiling. companies use your data to build a detailed digital profile of who you are This includes your habits, interests, beliefs, income level, etc. These profiles are then used against you. Notably companies are able to dynamically adjust prices based on your profile. This is known as price discrimination, meaning based on the device you may be browsing on or the location your based in, higher prices may be shown for you for the same product compared to someone else",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Geo-political impacts",
+        "paragraphs": [
+          {
+            "text": "Data isn’t just about ads anymore it’s political power, companies who often provide a service for free sell our data to other companies as a way to make profit. “For example, buying someone's name can lead to making guesses about their income, number of children and ethnicity - which is then used to tailor a political message for them.” this was reported by the BBC.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Example between Labour and Experian :",
+        "paragraphs": [
+          {
+            "text": "One example of this taking place is between the Labour Party and Experian. Experian is described in one place as a “one-stop shop for data used in political profiling”. An investigation by the ICO found that 10 million adults in the UK had had their data processed by Experian, which was then used by political parties to tailor messages. Although this may seem harmless, it may also fuel division and misinformation.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Example of Brexit:",
+        "paragraphs": [
+          {
+            "text": "Another much broader, far-reaching example would be that of Brexit. Parties such as Leave.EU and UKIP worked closely with Cambridge Analytica to target voters during the Brexit referendum. “Leave.EU used datasets created by Cambridge Analytica to target voters with online political messages to potentially sway public opinion in 2016.” Millions of pounds were spent on buying targeted online advertising during the referendum campaign.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "How to protect your data:",
+        "paragraphs": [
+          {
+            "text": "(1): Read privacy policies: To understand what you’re agreeing to and what to avoid. You can use a tool like ours to simplify this process and receive a breakdown of the privacy policy. (2): Limit permissions: Turn off your location, deny app access that you don’t need, and check what data you’ve shared. (3): Use privacy tools: Such as secure browsers, ad blockers, and encrypted messaging apps, also avoid accepting cookies carelessly on websites, opt out when given the option.",
+            "gifId": null
+          }
+        ]
+      }
+    ],
+    "gifs": [],
+    "References": [
+      {
+        "title": "How Companies Gather Data & What They Do With It",
+        "url": "https://www.icreatives.com/iblog/how-companies-collect-data/"
+      },
+      {
+        "title": "Different Types of Data Companies Collect: What’s the Catch?",
+        "url": "https://www.rudderstack.com/guides/different-types-of-data-companies-collect-whats-the-catch/"
+      },
+      {
+        "title": "Your data and how it is used to gain your vote",
+        "url": "https://www.bbc.co.uk/news/technology-54915779"
+      },
+      {
+        "title": "Cambridge Analytica did work for Brexit groups, says ex-staffer",
+        "url": "https://www.politico.eu/article/cambridge-analytica-leave-eu-ukip-brexit-facebook/"
+      },
+      {
+        "title": "Vote Leave and BeLeave used identical datasets to target Facebook users",
+        "url": "https://www.theguardian.com/politics/2018/may/16/vote-leave-beleave-datasets-facebook-brexit-campaign"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "imageUrl": "/gifs/image.png",
+    "slug": "securing-your-home-network",
+    "title": "Securing Your Home Network",
+    "subtitle": "Building a Digital Fortress for Your Connected Life",
+    "blurb": "Transform your vulnerable home network into a secure environment that protects all your connected devices from increasingly common cyber threats.",
+    "author": "Jennifer Wu",
+    "content": [
+      {
+        "title": "The Modern Home Network Challenge",
+        "paragraphs": [
+          {
+            "text": "Today's homes contain an average of 22 connected devices, creating an expanded attack surface for potential intruders. From smartphones and computers to smart TVs, thermostats, and security cameras, each connected device represents a potential entry point for attackers. As remote work becomes increasingly common, securing home networks has become essential not just for personal privacy but also for corporate security.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Router Security Fundamentals",
+        "paragraphs": [
+          {
+            "text": "Your router serves as the primary gateway between your devices and the internet, making it the most critical security point in your home network. Secure your router by changing default credentials, enabling WPA3 encryption when available, updating firmware regularly, and disabling remote management. Consider replacing older routers that no longer receive security updates with modern alternatives that include built-in security features.",
+            "gifId": 12
+          }
+        ]
+      },
+      {
+        "title": "Network Segmentation Strategies",
+        "paragraphs": [
+          {
+            "text": "Network segmentation involves dividing your home network into separate subnetworks, containing potential breaches and protecting your most sensitive devices. Create a dedicated guest network for visitors and IoT devices, keeping them isolated from computers containing personal and financial information. More advanced setups can implement VLANs for granular control over which devices can communicate with each other.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "IoT Device Security",
+        "paragraphs": [
+          {
+            "text": "Internet of Things devices often have limited security features and may not receive regular updates, making them potential weak points in your network. Before purchasing IoT products, research their security history and update policies. Configure each device with strong, unique passwords, disable unnecessary features, and regularly check for and apply firmware updates. Consider using a dedicated IoT security hub for monitoring and protecting these devices.",
+            "gifId": 13
+          }
+        ]
+      },
+      {
+        "title": "Ongoing Network Monitoring",
+        "paragraphs": [
+          {
+            "text": "Maintaining visibility into your network activity helps identify suspicious behaviors before they become serious problems. Use network monitoring tools to track connected devices and unusual traffic patterns. Regularly audit your network for unauthorized devices and review router logs for suspicious access attempts. Consider implementing DNS filtering to block connections to known malicious domains at the network level.",
+            "gifId": null
+          }
+        ]
+      }
+    ],
+    "gifs": [
+      {
+        "id": 12,
+        "url": ""
+      },
+      {
+        "id": 13,
+        "url": ""
+      }
+    ],
+    "References": []
+  },
+  {
+    "id": 4,
+    "imageUrl": "/gifs/image.png",
+    "slug": "user-data-sharing-in-business",
+    "title": "User Data Sharing in Business: Balancing Innovation with Privacy",
+    "subtitle": "Navigating the Complex World of Corporate Data Exchange",
+    "blurb": "Explore how businesses share user data to drive innovation while addressing growing privacy concerns, regulatory challenges, and ethical considerations.",
+    "author": "Leon Philips King",
+    "content": [
+      {
+        "title": "Introduction",
+        "paragraphs": [
+          {
+            "text": "In the digital world, user data is a valuable asset for businesses. Companies collect vast amounts of information to enhance services, target advertisements, and optimise customer experiences. However, the sharing of this data between companies raises concerns about privacy, ethics, and security.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Why Companies Share User Data",
+        "paragraphs": [
+          {
+            "text": "Companies share user data for several important reasons. Business partnerships often involve data sharing to improve joint products or services, creating more seamless experiences across platforms. In advertising and marketing, shared data enables precisely targeted campaigns that reach the most relevant audiences. Profiting from data has become a significant revenue stream, with companies selling anonymous or aggregated user information to third parties. Additionally, shared data supports analytics and research efforts, helping businesses analyse market trends and understand consumer behavior patterns.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Common Methods of Data Sharing",
+        "paragraphs": [
+          {
+            "text": "The mechanisms for sharing this information vary widely across the digital world. APIs (Application Programming Interfaces) provide controlled access to data for third-party developers, enabling integration while maintaining some security controls. Data brokers serve as intermediaries, collecting and selling user data to businesses seeking to gain a leg-up in the market. Formal partnership agreements establish the terms and conditions for data exchange between collaborating entities. Meanwhile, third-party cookies track user behaviour across different websites, creating comprehensive profiles for advertising purposes.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Legal and Ethical Considerations",
+        "paragraphs": [
+          {
+            "text": "The legal and ethical landscape surrounding data sharing continues to evolve rapidly. Data protection laws like GDPR in Europe establish strict requirements for how data can be shared and stored. User's consenting has become a fundamental principle, with companies now required to obtain informed permission before sharing personal information. Transparency and accountability are increasingly expected, with businesses needing to clearly communicate their data-sharing practices to users and regulators alike.",
+            "gifId": null
+          }
+        ]
+      },
+      {
+        "title": "Protecting User Data",
+        "paragraphs": [
+          {
+            "text": "Protecting user data requires a multi-faceted approach that begins with education. Users need clear information about how their data is collected, used, and shared to make informed decisions. Companies must implement stricter internal policies governing data access and sharing, supported by enhanced security measures like encryption and robust access controls. Regulatory compliance has become non-negotiable, with businesses needing comprehensive programs to ensure adherence to the growing patchwork of data protection laws worldwide.",
+            "gifId": null
+          }
+        ]
+      }
+    ],
+    "gifs": [],
+    "References": []
+  }
+]

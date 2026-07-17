@@ -1,0 +1,790 @@
+[
+    {
+      "id": "quiz_sec_001",
+      "title": "Cybersecurity Fundamentals Assessment",
+      "description": "A comprehensive quiz to test basic cybersecurity knowledge and awareness.",
+      "questions": [
+        {
+          "text": "Which of these is considered malware?",
+          "answers": [
+            {
+              "text": "Virus",
+              "isCorrect": true
+            },
+            {
+              "text": "Firewall",
+              "isCorrect": false
+            },
+            {
+              "text": "Encryption",
+              "isCorrect": false
+            },
+            {
+              "text": "Token",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which is a method to scramble data?",
+          "answers": [
+            {
+              "text": "Hashing",
+              "isCorrect": true
+            },
+            {
+              "text": "Sorting",
+              "isCorrect": false
+            },
+            {
+              "text": "Cloning",
+              "isCorrect": false
+            },
+            {
+              "text": "Indexing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "HTTPS is more secure than HTTP because it uses what?",
+          "answers": [
+            {
+              "text": "Encryption",
+              "isCorrect": true
+            },
+            {
+              "text": "Compression",
+              "isCorrect": false
+            },
+            {
+              "text": "JavaScript",
+              "isCorrect": false
+            },
+            {
+              "text": "Cookies",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "A VPN is used to do what?",
+          "answers": [
+            {
+              "text": "Secure internet traffic",
+              "isCorrect": true
+            },
+            {
+              "text": "Play games",
+              "isCorrect": false
+            },
+            {
+              "text": "Download movies",
+              "isCorrect": false
+            },
+            {
+              "text": "Update browsers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What does MFA stand for?",
+          "answers": [
+            {
+              "text": "Multiple Firewall Authentication",
+              "isCorrect": false
+            },
+            {
+              "text": "Multi-Factor Authentication",
+              "isCorrect": true
+            },
+            {
+              "text": "Mass File Access",
+              "isCorrect": false
+            },
+            {
+              "text": "Main Framework Algorithm",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is two-factor authentication?",
+          "answers": [
+            {
+              "text": "A method to verify identity using two methods",
+              "isCorrect": true
+            },
+            {
+              "text": "A type of virus",
+              "isCorrect": false
+            },
+            {
+              "text": "A single login method",
+              "isCorrect": false
+            },
+            {
+              "text": "A data backup",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which software protects your computer from viruses?",
+          "answers": [
+            {
+              "text": "Antivirus",
+              "isCorrect": true
+            },
+            {
+              "text": "Spreadsheet",
+              "isCorrect": false
+            },
+            {
+              "text": "Browser",
+              "isCorrect": false
+            },
+            {
+              "text": "Database",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Phishing attacks commonly try to steal what?",
+          "answers": [
+            {
+              "text": "Passwords",
+              "isCorrect": true
+            },
+            {
+              "text": "Photos",
+              "isCorrect": false
+            },
+            {
+              "text": "Music",
+              "isCorrect": false
+            },
+            {
+              "text": "Games",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is the main goal of a firewall?",
+          "answers": [
+            {
+              "text": "To block unauthorized access",
+              "isCorrect": true
+            },
+            {
+              "text": "To boost speed",
+              "isCorrect": false
+            },
+            {
+              "text": "To compress data",
+              "isCorrect": false
+            },
+            {
+              "text": "To create backups",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following is a strong password?",
+          "answers": [
+            {
+              "text": "123456",
+              "isCorrect": false
+            },
+            {
+              "text": "password",
+              "isCorrect": false
+            },
+            {
+              "text": "Tr0ub4dor&3",
+              "isCorrect": true
+            },
+            {
+              "text": "qwerty",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "explanation": "This quiz tests fundamental knowledge of data protection and secure practices in cybersecurity."
+    },
+    {
+      "id": "quiz_sec_002",
+      "title": "Advanced Cybersecurity Assessment",
+      "description": "A challenging quiz to evaluate advanced cybersecurity knowledge and awareness.",
+      "questions": [
+        {
+          "text": "What is a zero-day vulnerability?",
+          "answers": [
+            {
+              "text": "A security flaw that is known to the vendor but not the public",
+              "isCorrect": false
+            },
+            {
+              "text": "A security flaw that is unknown to the vendor and public",
+              "isCorrect": true
+            },
+            {
+              "text": "A known exploit that has been patched",
+              "isCorrect": false
+            },
+            {
+              "text": "A type of ransomware",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is the primary function of a SIEM system?",
+          "answers": [
+            {
+              "text": "Monitor and analyze security events in real-time",
+              "isCorrect": true
+            },
+            {
+              "text": "Scan for malware",
+              "isCorrect": false
+            },
+            {
+              "text": "Encrypt sensitive data",
+              "isCorrect": false
+            },
+            {
+              "text": "Create network firewalls",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following is a common technique used in social engineering attacks?",
+          "answers": [
+            {
+              "text": "Phishing",
+              "isCorrect": true
+            },
+            {
+              "text": "Firewall inspection",
+              "isCorrect": false
+            },
+            {
+              "text": "Code obfuscation",
+              "isCorrect": false
+            },
+            {
+              "text": "Data compression",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is the purpose of a digital certificate?",
+          "answers": [
+            {
+              "text": "To verify the identity of a device or user",
+              "isCorrect": true
+            },
+            {
+              "text": "To store passwords securely",
+              "isCorrect": false
+            },
+            {
+              "text": "To encrypt files",
+              "isCorrect": false
+            },
+            {
+              "text": "To manage network traffic",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following is an example of a DoS attack?",
+          "answers": [
+            {
+              "text": "Overloading a server with traffic to disrupt its service",
+              "isCorrect": true
+            },
+            {
+              "text": "Stealing login credentials",
+              "isCorrect": false
+            },
+            {
+              "text": "Encrypting a user's data and demanding a ransom",
+              "isCorrect": false
+            },
+            {
+              "text": "Scanning for open ports",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is the primary goal of a penetration test?",
+          "answers": [
+            {
+              "text": "To identify and exploit security weaknesses",
+              "isCorrect": true
+            },
+            {
+              "text": "To develop antivirus software",
+              "isCorrect": false
+            },
+            {
+              "text": "To block unauthorized access",
+              "isCorrect": false
+            },
+            {
+              "text": "To compress large files",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following is a form of multi-factor authentication (MFA)?",
+          "answers": [
+            {
+              "text": "A password and a fingerprint scan",
+              "isCorrect": true
+            },
+            {
+              "text": "A password and a username",
+              "isCorrect": false
+            },
+            {
+              "text": "A CAPTCHA challenge",
+              "isCorrect": false
+            },
+            {
+              "text": "Single sign-on (SSO)",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following can help prevent SQL injection attacks?",
+          "answers": [
+            {
+              "text": "Using parameterized queries",
+              "isCorrect": true
+            },
+            {
+              "text": "Disabling cookies",
+              "isCorrect": false
+            },
+            {
+              "text": "Minimizing file sizes",
+              "isCorrect": false
+            },
+            {
+              "text": "Compressing HTTP responses",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "explanation": "This quiz tests advanced knowledge of cybersecurity concepts and practices, including system hardening, threat detection, and network defense."
+    },    
+    {
+      "id": "quiz_tech_003",
+      "title": "AI and Machine Learning Fundamentals",
+      "description": "Explore key concepts in artificial intelligence and machine learning.",
+      "questions": [
+        {
+          "text": "What is natural language processing?",
+          "answers": [
+            {
+              "text": "Understanding text and speech",
+              "isCorrect": true
+            },
+            {
+              "text": "Cooking language",
+              "isCorrect": false
+            },
+            {
+              "text": "Programming syntax",
+              "isCorrect": false
+            },
+            {
+              "text": "Typing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is training in ML?",
+          "answers": [
+            {
+              "text": "Fitting model to data",
+              "isCorrect": true
+            },
+            {
+              "text": "Doing sports",
+              "isCorrect": false
+            },
+            {
+              "text": "Repeating tasks",
+              "isCorrect": false
+            },
+            {
+              "text": "Creating quizzes",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which company makes TensorFlow?",
+          "answers": [
+            {
+              "text": "Google",
+              "isCorrect": true
+            },
+            {
+              "text": "Apple",
+              "isCorrect": false
+            },
+            {
+              "text": "Amazon",
+              "isCorrect": false
+            },
+            {
+              "text": "Microsoft",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which is used in image recognition?",
+          "answers": [
+            {
+              "text": "Convolutional Neural Network",
+              "isCorrect": true
+            },
+            {
+              "text": "Linear Equation",
+              "isCorrect": false
+            },
+            {
+              "text": "Histogram",
+              "isCorrect": false
+            },
+            {
+              "text": "Pie chart",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is used in facial recognition?",
+          "answers": [
+            {
+              "text": "AI",
+              "isCorrect": true
+            },
+            {
+              "text": "Excel",
+              "isCorrect": false
+            },
+            {
+              "text": "Firewall",
+              "isCorrect": false
+            },
+            {
+              "text": "Flash drive",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What does supervised learning use?",
+          "answers": [
+            {
+              "text": "Labeled data",
+              "isCorrect": true
+            },
+            {
+              "text": "Unlabeled data",
+              "isCorrect": false
+            },
+            {
+              "text": "Dark web",
+              "isCorrect": false
+            },
+            {
+              "text": "Viruses",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which is a machine learning algorithm?",
+          "answers": [
+            {
+              "text": "Neural Network",
+              "isCorrect": true
+            },
+            {
+              "text": "Blueprint",
+              "isCorrect": false
+            },
+            {
+              "text": "Router",
+              "isCorrect": false
+            },
+            {
+              "text": "Compiler",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is a chatbot?",
+          "answers": [
+            {
+              "text": "Conversational AI",
+              "isCorrect": true
+            },
+            {
+              "text": "A toy",
+              "isCorrect": false
+            },
+            {
+              "text": "A website",
+              "isCorrect": false
+            },
+            {
+              "text": "An image editor",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is machine learning?",
+          "answers": [
+            {
+              "text": "Learning from data",
+              "isCorrect": true
+            },
+            {
+              "text": "Reading books",
+              "isCorrect": false
+            },
+            {
+              "text": "Manual programming",
+              "isCorrect": false
+            },
+            {
+              "text": "Gaming AI",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is AI?",
+          "answers": [
+            {
+              "text": "Artificial Intelligence",
+              "isCorrect": true
+            },
+            {
+              "text": "Animal Intelligence",
+              "isCorrect": false
+            },
+            {
+              "text": "Autonomous Interface",
+              "isCorrect": false
+            },
+            {
+              "text": "Auto Input",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "explanation": "Machine Learning and AI are transformative technologies reshaping multiple industries and problem-solving approaches."
+    },
+    {
+      "id": "quiz_sec_004",
+      "title": "Intermediate Cybersecurity Assessment",
+      "description": "A quiz designed to assess intermediate knowledge in cybersecurity concepts and practices.",
+      "questions": [
+        {
+          "text": "What is the primary purpose of encryption?",
+          "answers": [
+            {
+              "text": "To protect data by converting it into a secure format",
+              "isCorrect": true
+            },
+            {
+              "text": "To compress large files",
+              "isCorrect": false
+            },
+            {
+              "text": "To boost network speed",
+              "isCorrect": false
+            },
+            {
+              "text": "To block unauthorized access",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is the main purpose of a public key in asymmetric encryption?",
+          "answers": [
+            {
+              "text": "To encrypt data for secure transmission",
+              "isCorrect": true
+            },
+            {
+              "text": "To compress data for faster transmission",
+              "isCorrect": false
+            },
+            {
+              "text": "To backup sensitive information",
+              "isCorrect": false
+            },
+            {
+              "text": "To analyze network traffic",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following is a common form of network attack?",
+          "answers": [
+            {
+              "text": "Man-in-the-Middle (MITM) attack",
+              "isCorrect": true
+            },
+            {
+              "text": "Data compression attack",
+              "isCorrect": false
+            },
+            {
+              "text": "Firewall bypass attack",
+              "isCorrect": false
+            },
+            {
+              "text": "File duplication attack",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is the function of a hash function in cybersecurity?",
+          "answers": [
+            {
+              "text": "To convert data into a fixed-size unique value",
+              "isCorrect": true
+            },
+            {
+              "text": "To encrypt data for secure transmission",
+              "isCorrect": false
+            },
+            {
+              "text": "To manage network traffic",
+              "isCorrect": false
+            },
+            {
+              "text": "To scan for malware",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following best describes a brute force attack?",
+          "answers": [
+            {
+              "text": "An attempt to guess a password by trying all possible combinations",
+              "isCorrect": true
+            },
+            {
+              "text": "A coordinated DDoS attack",
+              "isCorrect": false
+            },
+            {
+              "text": "An attempt to hack into a server using encryption",
+              "isCorrect": false
+            },
+            {
+              "text": "A type of phishing attack",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following is a key benefit of two-factor authentication (2FA)?",
+          "answers": [
+            {
+              "text": "It significantly reduces the risk of unauthorized access",
+              "isCorrect": true
+            },
+            {
+              "text": "It speeds up login times",
+              "isCorrect": false
+            },
+            {
+              "text": "It encrypts sensitive files",
+              "isCorrect": false
+            },
+            {
+              "text": "It prevents data loss",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "What is a common method for detecting anomalies in network traffic?",
+          "answers": [
+            {
+              "text": "Using intrusion detection systems (IDS)",
+              "isCorrect": true
+            },
+            {
+              "text": "Running antivirus software",
+              "isCorrect": false
+            },
+            {
+              "text": "Performing data backups",
+              "isCorrect": false
+            },
+            {
+              "text": "Compressing data packets",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "text": "Which of the following is a principle of least privilege?",
+          "answers": [
+            {
+              "text": "Users should have only the access necessary to perform their jobs",
+              "isCorrect": true
+            },
+            {
+              "text": "All users should have full access to all resources",
+              "isCorrect": false
+            },
+            {
+              "text": "Access should be based on job titles alone",
+              "isCorrect": false
+            },
+            {
+              "text": "Users should have unlimited access to their own devices",
+              "isCorrect": false
+            }
+          ]
+        }
+      ],
+      "explanation": "This quiz tests intermediate knowledge of cybersecurity, including encryption, network security, and secure authentication practices."
+    }
+  ]

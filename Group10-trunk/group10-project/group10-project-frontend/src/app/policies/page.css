@@ -1,0 +1,33 @@
+/* HIDDEN SCROLLBAR */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+  
+.hide-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+/* CUSTOM SCROLLBAR */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 20px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #666666;
+    border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* For Firefox */
+.custom-scrollbar {
+    scrollbar-width: 20px;
+    scrollbar-color: #666666 transparent;
+}
